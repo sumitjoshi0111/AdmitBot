@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is MHT-CET?",
+    "keywords": ["mht-cet", "mht cet", "cet exam", "what is cet"],
+    "answer": "MHT-CET (Maharashtra Common Entrance Test) is a state-level entrance examination used for admission to engineering, pharmacy, and other professional degree courses in Maharashtra."
+  },
+  {
+    "question": "What is CAP?",
+    "keywords": ["cap", "centralized admission process"],
+    "answer": "CAP stands for Centralized Admission Process. It is the official process through which engineering seats in Maharashtra are allotted to eligible candidates based on merit rank, category, and their preference list, over multiple rounds."
+  },
+  {
+    "question": "What is DSE?",
+    "keywords": ["dse", "diploma second year", "direct second year"],
+    "answer": "DSE stands for Direct Second Year Engineering. It allows diploma holders to get direct admission into the second year of an engineering degree, without going through the first year."
+  },
+  {
+    "question": "What is CET rank?",
+    "keywords": ["cet rank", "what is rank", "merit rank"],
+    "answer": "Your CET rank (or merit rank) is your position among all candidates based on your MHT-CET score. A lower rank number means a better position, e.g., rank 100 is better than rank 5000."
+  },
+  {
+    "question": "What is category?",
+    "keywords": ["what is category", "category means", "reservation category"],
+    "answer": "Category refers to the reservation group a candidate belongs to for admission purposes, such as OPEN, OBC, SC, ST, or EWS. Cutoff ranks differ for each category."
+  },
+  {
+    "question": "What is cutoff?",
+    "keywords": ["what is cutoff", "cutoff rank", "cutoff means"],
+    "answer": "A cutoff (or closing rank) is the rank of the last candidate who got admitted to a particular college, branch, and category combination in a given year. If your rank is better (numerically lower) than the cutoff, you have a good chance of getting that seat."
+  },
+  {
+    "question": "What is counselling?",
+    "keywords": ["what is counselling", "what is counseling", "counselling process"],
+    "answer": "Counselling is the process where candidates fill in college and branch preferences, and seats are allotted based on merit rank and category through CAP rounds. It can also refer to one-on-one guidance sessions with an admission counsellor."
+  },
+  {
+    "question": "What documents are required for admission?",
+    "keywords": ["documents required", "which documents", "documents needed"],
+    "answer": "Commonly required documents include: MHT-CET scorecard, Class 12 marksheet, domicile certificate, category/caste certificate (if applicable), Aadhaar card, and passport-size photographs. Please confirm the exact list with official CAP guidelines, as requirements can change."
+  },
+  {
+    "question": "Difference between CAP and counselling?",
+    "keywords": ["difference between cap and counselling", "cap vs counselling"],
+    "answer": "CAP is the official, government-run centralized seat allotment process based on merit and preferences. Counselling (in the guidance sense) is personal advice/support to help you make better decisions during that process — they work together, not against each other."
+  },
+  {
+    "question": "How does college prediction work?",
+    "keywords": ["how does prediction work", "how does college prediction work", "how prediction works"],
+    "answer": "College prediction compares your rank with the closing ranks of previous years for each college, branch, and category. If your rank is well within the closing rank, your chances are HIGH; if it's close, MEDIUM; if it's slightly beyond, LOW. This is only an indication, not a guarantee."
+  }
+]
